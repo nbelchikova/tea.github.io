@@ -87,11 +87,12 @@ img {
     margin-right: auto;
     text-align: center;
     justify-content: center; 
+    width:100%;
 }
 #middle3-1 {    
     display: flex;
     justify-content: space-around;
-    
+    width:100%;
     background-color: transparent;
     
 }
@@ -99,6 +100,7 @@ img {
     height: 200px;
     text-align: center;
     justify-content: center; 
+    width:100%;
 }
 #fts {
     margin-left: 20px;
