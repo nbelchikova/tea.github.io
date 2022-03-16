@@ -1,0 +1,130 @@
+html {
+    max-width: auto;
+    min-width: auto;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+#header_body {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-start; 
+    word-spacing: 20px;
+    align-items: center;
+    border-bottom: 1px solid seashell;
+    height: 72px;
+    top: 0px;
+    
+}
+#logo5 {
+    height: 50px;
+    padding-right:1000px; 
+               
+}
+li {
+    display: inline;
+    text-decoration: underline; 
+      
+}
+#main1 {
+    position: relative;
+    top: 150px;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+    height: 700px;
+    width: 1200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h4h {
+    position: relative;
+    top: 350px;
+    background-color: black;
+    
+}
+#middle1, #middle2  {
+    display: inline-flex;
+    justify-content: center; 
+    width: 1000px;
+    
+}      
+img {
+    height: 200px;
+    width: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+      
+}
+#middle3 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#middle3-1 {    
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: transparent;
+    
+}
+#middle4 {
+    height: 200px;
+}
+#fts {
+    margin-left: 20px;
+    text-align: left;
+}
+h5, #hts {
+    font-size: 15px;
+}
+
+h3 {
+    font-size: 25px; 
+   
+    
+}
+h4 {
+    font-size: 20px;
+   
+}
+h2, #sp {
+    font-size: 35px;
+}
+.coln {
+    opacity: 1;
+    height: 300px;
+    width: 300px;
+    display: block;
+    line-height: 40px;
+
+}
+#loc {
+    background-color: transparent;
+    text-align: center;
+    justify-content: center;
+    width: 20%;
+    background-color: none;
+
+}
+
