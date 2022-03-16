@@ -24,7 +24,7 @@ html {
 }
 #logo5 {
     height: 50px;
-    padding-right:600px; 
+    padding-right:500px; 
                
 }
 li {
@@ -58,6 +58,9 @@ li {
     display: inline-flex;
     justify-content: center; 
     width: 1000px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
     
 }      
 img {
