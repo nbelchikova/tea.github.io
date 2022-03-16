@@ -102,19 +102,23 @@ img {
 }
 h5, #hts {
     font-size: 15px;
+    text-align: center;
 }
 
 h3 {
     font-size: 25px; 
+    text-align: center;
    
     
 }
 h4 {
     font-size: 20px;
+    text-align: center;
    
 }
 h2, #sp {
     font-size: 35px;
+    text-align: center;
 }
 .coln {
     opacity: 1;
@@ -130,6 +134,6 @@ h2, #sp {
     justify-content: center;
     width: 20%;
     background-color: none;
-
+  
 }
 
