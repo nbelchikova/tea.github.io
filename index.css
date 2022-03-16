@@ -56,7 +56,7 @@ li {
 }
 #middle1, #middle2  {
     display: inline-flex;
-    justify-content: center; 
+    justify-content: space-around; 
     width: 1000px;
     align-items: center;
     margin-left: auto;
